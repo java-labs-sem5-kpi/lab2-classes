@@ -17,10 +17,13 @@
 3. Код має бути завантажений на GitHub.
 
 ### Інструкція
-1. Склонуйте цей репозиторій `git clone https://github.com/java-labs-sem5-kpi/lab2-strings.git](https://github.com/java-labs-sem5-kpi/lab3-classes.git`
+1. Склонуйте цей репозиторій `git clone https://github.com/java-labs-sem5-kpi/lab3-classes.git`
 2. Перейдіть у склонований репозиторій `cd lab3-classes`
 3. Зберіть проект за допомогою Maven `mvn clean install`
 4. Запустіть виконавчий файл для тестового запуску `java -jar ./target/furniture-catalog-1.0.jar`
+
+### Тестування
+Реалізоване за допомогою написання UNIT тестів, які автоматично запускаються під час збірки проекту Maven.
 
 > **Автор:** Рибак Сергій  
 > **Група:** ІП-24
